@@ -1,9 +1,7 @@
 import React from "react";
-import abt1 from "./ab1.jpg";
 import abt6 from "./ab6.jpg";
 import abt2 from "./ab2.jpg";
 import abt3 from "./ab3.jpg";
-import abt4 from "./ab4.jpg";
 import abt5 from "./ab5.jpg";
 import { FaTowerCell } from "react-icons/fa6";
 import { GiStairsGoal } from "react-icons/gi";
