@@ -1,4 +1,3 @@
-import React from "react";
 import LandingImg from "./landingpen.jpg";
 
 const Landing = () => {

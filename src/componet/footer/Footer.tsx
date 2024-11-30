@@ -1,4 +1,3 @@
-import React from "react";
 import logo from "./penlogo.jpg";
 import { PiInstagramLogoThin } from "react-icons/pi";
 import { RiFacebookLine } from "react-icons/ri";

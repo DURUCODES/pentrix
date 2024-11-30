@@ -1,4 +1,3 @@
-import React from "react";
 import abt6 from "./ab6.jpg";
 import abt2 from "./ab2.jpg";
 import abt3 from "./ab3.jpg";
